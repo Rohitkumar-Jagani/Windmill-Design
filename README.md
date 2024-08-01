@@ -1,21 +1,21 @@
 #**Overview**
 
-This project features a 3D model of a windmill designed in SolidWorks, highlighting its structural and mechanical components.
+-This project features a 3D model of a windmill designed in SolidWorks, highlighting its structural and mechanical components.
 
 ##**Design Components**
-Body Shell: Main structural support.
-Hub Body: Central part connecting blades.
-Shaft: Links hub body to body shell.
-Blades: Three blades designed to capture wind energy.
-Base: Solid base for stability.
+-Body Shell: Main structural support.
+-Hub Body: Central part connecting blades.
+-Shaft: Links hub body to body shell.
+-Blades: Three blades designed to capture wind energy.
+-Base: Solid base for stability.
 
 ###**Features**
-Rotary Motion: Simulates blade rotation.
-Detailed Modeling: Realistic representation of components.
-Assembly and Isometric Views: Comprehensive perspectives of the windmill.
+-Rotary Motion: Simulates blade rotation.
+-Detailed Modeling: Realistic representation of components.
+-Assembly and Isometric Views: Comprehensive perspectives of the windmill.
 
 ####**Tools Used**
-SolidWorks
+-SolidWorks
 
 ![Screenshot 2024-07-30 222333](https://github.com/user-attachments/assets/b5a444c4-b706-48fe-a335-a58b46bb4ca3)
 ![Screenshot 2024-07-30 222404](https://github.com/user-attachments/assets/f7257995-4474-4b89-81c7-b38a9ec0855d)
