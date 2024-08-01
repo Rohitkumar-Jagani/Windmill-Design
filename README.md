@@ -19,7 +19,8 @@ This project features a 3D model of a windmill designed in SolidWorks, highlight
 #### **Tools Used**
 
 - **SolidWorks
-
+- 
+#### **Animation Video**
 ![Animation](https://github.com/user-attachments/assets/439b1475-cc29-4e66-9083-5303172f418b)
 
 ![Screenshot 2024-07-30 222333](https://github.com/user-attachments/assets/b5a444c4-b706-48fe-a335-a58b46bb4ca3)
